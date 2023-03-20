@@ -3082,7 +3082,7 @@ expo-constants@~14.2.0, expo-constants@~14.2.1:
     "@expo/config" "~8.0.0"
     uuid "^3.3.2"
 
-expo-dev-client@^2.1.5:
+expo-dev-client@~2.1.5:
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/expo-dev-client/-/expo-dev-client-2.1.5.tgz#a0f0a7e319c09813a001c9df1935adef4eb378d5"
   integrity sha512-Xcz+4cQhuUgbQ3krEGqjeC6rwVIZsCnOWLHQyuHuiKGtJLJ6CfKHyuCPY53b7c0DI7ThWafKMD3vc78E7ux3TQ==
